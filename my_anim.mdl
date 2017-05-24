@@ -1,0 +1,8 @@
+frames 1
+basename spinner
+push
+move 250 250 0
+rotate y 360
+rotate x 360
+rotate z 360
+sphere 0 0 0 100 
